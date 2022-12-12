@@ -1,6 +1,6 @@
 // переделал переменные в константы, т.к. длина и ширина поля боя в данной задаче величина неизменяемая
-1. int battlefieldWidth - final int BATTLEFIELD_WIDTH
-2. int battlefieldLength - final int BATTLEFIELD_LENGTH
+1. battlefieldWidth - BATTLEFIELD_WIDTH
+2. battlefieldLength - BATTLEFIELD_LENGTH
 
 // обозначил константу заглавными буквами
 3. hypotenuse - HYPOTENUSE
@@ -11,9 +11,9 @@
 // переделал переменные в константы, исправил названия на более выразительные
 5. t - SQUARE_SIDE
 6. masLen - LIMITED_ROWS_LENGTH
-7. int n - final int STRING_LENGTH
-8. double sq - final double SQRT_FROM_LENGTH
+7. n - STRING_LENGTH
+8. sq - SQRT_FROM_LENGTH
 9. isq - INT_FROM_SQRT
-10. String tbl - final String ASCII_TABLE
-11. int s1len - final int S1_LENGTH
-12. int maxNumLen - final int MAX_LENGTH
+10. tbl - ASCII_TABLE
+11. s1len - S1_LENGTH
+12. maxNumLen - MAX_LENGTH
